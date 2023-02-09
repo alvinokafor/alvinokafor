@@ -24,11 +24,11 @@ I'm alvin, a creative frontend engineer & product designer capable of designing 
 
 <p>
     <a href="https://github.com/alvinokafor"><img alt="React.js" src="https://img.shields.io/badge/React%20-%23013243.svg?logo=react&logoColor=white"></a>
-    <a href="https://github.com/alvinokafor"><img alt="Astro.js" src="https://img.shields.io/badge/React%20-%23013243.svg?logo=astro&logoColor=white"></a>
-    <a href="https://github.com/alvinokafor"><img alt="Next.js" src="https://img.shields.io/badge/Next%20-%23FF6F00.svg?logo=nextdotjs&logoColor=white"></a>
-    <a href="https://github.com/alvinokafor"><img alt="Vue.js" src="https://img.shields.io/badge/Vue%20-%23327FC7.svg?logo=vuedotjs&logoColor=white"></a>
+    <a href="https://github.com/alvinokafor"><img alt="Astro.js" src="https://img.shields.io/badge/Astro%20-%23FF6F00.svg?logo=astro&logoColor=white"></a>
+    <a href="https://github.com/alvinokafor"><img alt="Next.js" src="https://img.shields.io/badge/-Next-black.svg?logo=nextdotjs&logoColor=white"></a>
     <a href="https://github.com/alvinokafor"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind CSS%20-%23327FC7.svg?logo=tailwindcss&logoColor=white"></a>
     <a href="https://github.com/alvinokafor"><img alt="Framer Motion" src="https://img.shields.io/badge/Framer Motion%20-%23150458.svg?logo=framer&logoColor=white"></a>
+  <a href="https://github.com/alvinokafor"><img alt="Framer Motion" src="https://img.shields.io/badge/-Radix-black.svg?logo=radixui&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
