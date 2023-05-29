@@ -1,14 +1,8 @@
 # Hi there 👋🏾
 
- [![Website Badge](https://img.shields.io/badge/-alvinokafor.com-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://alvinokafor.com)](https://alvinokafor.com) [![Linkedin Badge](https://img.shields.io/badge/-@alvinokafor-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alvin-okafor-05a4a91a1/)](https://www.linkedin.com/in/alvin-okafor-05a4a91a1/) [![Twitter Badge](https://img.shields.io/badge/-@retrosearth-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/retrosearth)](https://twitter.com/retrosearth)
+ [![Website Badge](https://img.shields.io/badge/-alvinokafor.tech-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://alvinokafor.tech)](https://alvinokafor.tech) [![Linkedin Badge](https://img.shields.io/badge/-@alvinokafor-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alvin-okafor-05a4a91a1/)](https://www.linkedin.com/in/alvin-okafor-05a4a91a1/) [![Twitter Badge](https://img.shields.io/badge/-@retrosearth-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/retrosearth)](https://twitter.com/retrosearth)
 
-I'm alvin, a creative frontend engineer & product designer capable of designing and developing innovative user-centered interfaces, experiences and solutions that that drive business growth and improve the daily lives of users
-**Here's a quick summary about me**:
-
-- 💡 I’m currently learning TypeScript and Next.js.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://docs.google.com/document/d/1ViuuLXmSiEutHe4qAPTDkzLh3ovlR6tzf0g7VWWfR_U/edit?usp=sharing) and contact me by emailing alvin2k99@gmail.com.
+I'm alvin, a software engineer capable of designing and developing innovative user-centered solutions and experiences that that drive business growth and improve the daily lives of users. You can [view my resume](https://docs.google.com/document/d/1fgAaGR0XD8DdBfTaBXRr13oQoT__66TNEv6Yq6tqoDU/edit?usp=sharing) and contact me by emailing alvin2k99@gmail.com.
 
 ---
 
@@ -28,14 +22,17 @@ I'm alvin, a creative frontend engineer & product designer capable of designing 
     <a href="https://github.com/alvinokafor"><img alt="Next.js" src="https://img.shields.io/badge/-Next-black.svg?logo=nextdotjs&logoColor=white"></a>
     <a href="https://github.com/alvinokafor"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind CSS%20-%23327FC7.svg?logo=tailwindcss&logoColor=white"></a>
     <a href="https://github.com/alvinokafor"><img alt="Framer Motion" src="https://img.shields.io/badge/Framer Motion%20-%23150458.svg?logo=framer&logoColor=white"></a>
-  <a href="https://github.com/alvinokafor"><img alt="Framer Motion" src="https://img.shields.io/badge/-Radix-black.svg?logo=radixui&logoColor=white"></a>
+  <a href="https://github.com/alvinokafor"><img alt="Radix UI" src="https://img.shields.io/badge/-Radix-black.svg?logo=radix&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
 
 <p>
-    <a href="https://github.com/alvinokafor"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23327FC7.svg?logo=vercel&logoColor=white"></a>
+    <a href="https://github.com/alvinokafor"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-black.svg?logo=vercel&logoColor=white"></a>
+    <a href="https://github.com/alvinokafor"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-%23327FC7.svg?logo=netlify&logoColor=white"></a>
+ <a href="https://github.com/alvinokafor"><img alt="Render" src="https://img.shields.io/badge/Render-%23327FC7.svg?logo=render&logoColor=white"></a>
     <a href="https://github.com/alvinokafor"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?logo=firebase&logoColor=white"></a>
+ <a href="https://github.com/alvinokafor"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-green.svg?logo=mongodb&logoColor=white"></a>
 </p>
 
 ### 💻 Software and Tools
